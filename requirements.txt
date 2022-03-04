@@ -1,0 +1,11 @@
+alibabacloud_alimt20181012==1.0.2
+beautifulsoup4
+requests
+lxml
+colorlog
+langdetect
+xlrd
+xlwt
+javalang
+pymysql
+dbutils
